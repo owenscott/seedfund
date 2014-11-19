@@ -1,0 +1,22 @@
+
+<div class="col-sm-3">
+    <div class="team-member">
+        <img src="{{ team_member.picture.url | resize: '150x150'}}" class="profile-img img-circle" alt="">
+        <h4>{{ team_member.name | escape }}</h4>
+        <p class="text-muted">{{ team_member.role | escape }}</p>
+        <ul class="list-inline social-buttons">
+            {% if team_member.twitter %}
+                <li><a href="{{ team_member.twitter }}"><i class="portfolio-icon fa fa-twitter"></i></a>
+                </li>
+            {% endif %}
+             {% if team_member.linkedin %}
+                 <li><a href="{{ team_member.linkedin }}"><i class="portfolio-icon fa fa-linkedin"></i></a>
+                 </li>
+             {% endif %}
+             {% if team_member.github %}
+                 <li><a href="{{ team_member.github }}"><i class="portfolio-icon fa fa-github"></i></a>
+                 </li>
+             {% endif %}
+        </ul>
+    </div>
+</div>

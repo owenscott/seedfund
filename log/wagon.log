@@ -1587,3 +1587,1688 @@ Detecting locale EN
 [0;32;49mCompleted 404 Not Found in 4.1ms
 
 [0m
+[0;31;49m      source => You are not allowed to upload "" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, otf, ico, htc, can't be blank
+[0m
+[0;31;49m      source => You are not allowed to upload "" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, otf, ico, htc, can't be blank
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 15:58:36 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 15:58:40 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 24.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:00:29 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:00:31 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:00:31 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:00:59 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:01:05 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:01:06 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:01:06 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 11.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:01:16 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:01:17 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:01:17 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:02:39 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:02:53 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:02:53 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:02:54 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 16:03:46 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:03:46 +0000[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:03:46 +0000
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 7.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:04:27 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:04:27 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:04:27 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 7.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 16:05:28 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:05:28 +0000
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:05:29 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 6.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:06:19 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:06:27 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:06:33 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:06:36 +0000
+* Reloaded "content_entries" at 2014-11-19 16:11:29 +0000
+* Reloaded "content_types", "content_entries" at 2014-11-19 16:11:29 +0000
+unknow content type "team_members"
+unknow content type "team_members"
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/Library/Ruby/Gems/2.0.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/Library/Ruby/Gems/2.0.0/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/Library/Ruby/Gems/2.0.0/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/Library/Ruby/Gems/2.0.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/Library/Ruby/Gems/2.0.0/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/Library/Ruby/Gems/2.0.0/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2014-11-19 16:12:22 +0000
+* Reloaded "content_entries" at 2014-11-19 16:13:08 +0000
+* Reloaded "content_entries" at 2014-11-19 16:15:17 +0000
+* Reloaded "content_entries" at 2014-11-19 16:15:28 +0000
+* Reloaded "content_entries" at 2014-11-19 16:15:40 +0000
+* Reloaded "content_entries" at 2014-11-19 16:15:50 +0000
+* Reloaded "content_entries" at 2014-11-19 16:17:00 +0000
+* Reloaded "content_entries" at 2014-11-19 16:17:07 +0000
+* Reloaded "content_entries" at 2014-11-19 16:17:12 +0000
+* Reloaded "content_entries" at 2014-11-19 16:17:21 +0000
+* Reloaded "content_entries" at 2014-11-19 16:17:44 +0000
+* Reloaded "content_entries" at 2014-11-19 16:17:58 +0000
+* Reloaded "content_entries" at 2014-11-19 16:18:13 +0000
+* Reloaded "content_entries" at 2014-11-19 16:18:25 +0000
+* Reloaded "content_entries" at 2014-11-19 16:18:37 +0000
+* Reloaded "content_entries" at 2014-11-19 16:18:51 +0000
+* Reloaded "content_entries" at 2014-11-19 16:19:02 +0000
+* Reloaded "content_entries" at 2014-11-19 16:19:45 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:23:22 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:23:25 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:23:29 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:23:29 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:25:34 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:25:38 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:25:38 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:25:59 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:25:59 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+[0;31;49m[ERROR] Expected end_of_string but found string in "{{ include 'team-member' }}" - ./app/views/pages/index.liquid:8:in `SBS Seed Fund'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:26:10 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:26:10 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+[0;31;49m[ERROR] Unexpected character % in "{{% include 'team-member' %}}" - ./app/views/pages/index.liquid:8:in `SBS Seed Fund'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:26:15 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:26:16 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:26:16 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:30:15 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:30:17 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:30:17 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:30:33 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:30:33 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:30:33 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:30:51 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:31:15 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:31:18 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:31:43 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:31:43 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+[0;31;49m[ERROR] undefined method `photo' for #<Locomotive::Mounter::Models::ContentEntry:0x007f81c392bea8> - ./app/views/pages/index.liquid:8:in `SBS Seed Fund'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:32:00 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:32:00 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+[0;31;49m[ERROR] undefined method `title' for #<Locomotive::Mounter::Models::ContentEntry:0x007f81c392bea8> - ./app/views/pages/index.liquid:8:in `SBS Seed Fund'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:32:04 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:32:05 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/%7B" at 2014-11-19 16:32:05 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:32:05 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:32:51 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:32:54 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:32:55 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:33:19 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:33:21 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+[0;31;49m[ERROR] wrong number of arguments (1 for 2) - ./app/views/pages/index.liquid:8:in `SBS Seed Fund'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:33:26 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:33:29 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+[0;31;49m[ERROR] wrong number of arguments (1 for 2) - ./app/views/pages/index.liquid:8:in `SBS Seed Fund'
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:33:50 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:33:52 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 55.7ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:33:52 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 6.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:34:09 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:34:09 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:34:10 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:35:17 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:35:17 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.9ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:35:18 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:35:36 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:36:06 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:36:08 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:36:10 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 16:36:32 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:36:33 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:36:34 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 16:37:05 +0000
+* Reloaded "content_entries" at 2014-11-19 16:37:36 +0000
+* Reloaded "content_entries" at 2014-11-19 16:38:02 +0000
+* Reloaded "content_entries" at 2014-11-19 16:38:07 +0000
+* Reloaded "content_entries" at 2014-11-19 16:38:25 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:38:30 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.7ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:38:30 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:39:19 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:39:48 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:39:49 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:39:50 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 16:40:18 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:40:19 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.9ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:40:20 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:40:35 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:40:36 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.6ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:40:36 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:41:15 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 16:41:56 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:41:56 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.7ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:41:56 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 14.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:42:00 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:42:01 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.0ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:42:01 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:42:40 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:42:40 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.6ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:42:41 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:43:54 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:43:54 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.6ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:43:55 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:44:03 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:44:04 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.7ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:44:04 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:44:35 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:45:10 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:45:11 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:46:12 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:46:12 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:46:13 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:46:52 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:48:16 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.9ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:48:17 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 16:48:26 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:48:27 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 16:48:37 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.4ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:48:38 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 16:49:02 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.6ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:49:03 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 16:49:28 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:49:29 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 16:49:40 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.0ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:49:41 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:50:28 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:50:28 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.7ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:50:28 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:50:46 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:50:49 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.3ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:50:49 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:51:04 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:51:04 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.5ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:51:04 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:51:14 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:51:26 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.3ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:51:27 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 16:51:37 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.2ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:51:38 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:51:58 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:51:59 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.7ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:51:59 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:52:17 +0000
+* Reloaded "content_entries" at 2014-11-19 16:53:45 +0000
+* Reloaded "content_entries" at 2014-11-19 16:54:25 +0000
+* Reloaded "content_entries" at 2014-11-19 16:55:07 +0000
+* Reloaded "content_entries" at 2014-11-19 16:55:20 +0000
+* Reloaded "content_entries" at 2014-11-19 16:55:28 +0000
+* Reloaded "content_entries" at 2014-11-19 16:55:58 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:56:09 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.1ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:56:10 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 16:58:35 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:58:38 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.0ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:58:39 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 16:59:20 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 16:59:22 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.9ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 16:59:24 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:00:35 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:00:37 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.5ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:00:38 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 5.3ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:01:49 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:01:52 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.0ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:01:53 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:02:52 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:02:53 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.2ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:02:54 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:03:39 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:03:40 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.0ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:03:41 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:03:51 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 17:03:57 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:03:57 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.9ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:03:58 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:04:51 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 17:05:00 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:05:01 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.7ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:05:02 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:05:41 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:05:41 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.3ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:05:42 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+* Reloaded "content_types", "content_entries" at 2014-11-19 17:08:22 +0000
+* Reloaded "content_entries" at 2014-11-19 17:08:22 +0000
+* Reloaded "content_entries" at 2014-11-19 17:11:32 +0000
+* Reloaded "content_entries" at 2014-11-19 17:12:15 +0000
+* Reloaded "content_entries" at 2014-11-19 17:13:28 +0000
+* Reloaded "content_entries" at 2014-11-19 17:14:10 +0000
+* Reloaded "content_entries" at 2014-11-19 17:14:45 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 17:15:06 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 17:16:16 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 17:16:46 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 17:16:53 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 17:16:55 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:16:58 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.4ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:16:58 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:18:06 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 17:18:10 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 17:18:16 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 17:18:36 +0000
+* Reloaded "content_entries" at 2014-11-19 17:19:05 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:19:06 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.2ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:19:07 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:19:48 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:19:50 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:19:51 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:20:10 +0000
+* Reloaded "content_entries" at 2014-11-19 17:20:26 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:20:26 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.7ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:20:26 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:21:08 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:21:09 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:21:11 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.3ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:21:30 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:21:30 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.1ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:21:32 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.9ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:21:36 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:21:36 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.9ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:21:37 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.5ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:21:43 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:21:43 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:21:45 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.1ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:21:50 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:21:50 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.5ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:21:52 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:22:08 +0000
+* Reloaded "pages", "snippets" at 2014-11-19 17:22:27 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:22:27 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.7ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:22:28 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:22:46 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:22:49 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:22:49 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 11.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 17:23:39 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.6ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:23:40 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:24:04 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:24:05 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.3ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:24:06 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:24:26 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:24:26 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.5ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:24:26 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:26:42 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:26:42 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.2ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:26:43 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:27:20 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:27:21 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.7ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:27:22 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.3ms
+
+[0m
+* Reloaded "content_entries" at 2014-11-19 17:27:57 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:27:58 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 15.4ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:27:59 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:28:31 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:28:31 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 44.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:28:32 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 17:29:52 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.5ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:29:53 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 17:30:09 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.5ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:30:10 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 17:33:17 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.0ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:33:17 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-11-19 17:34:04 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:34:04 +0000
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:34:06 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-11-19 17:34:12 +0000
+[0;97;49mStarted GET "/" at 2014-11-19 17:34:13 +0000[0m
+Detecting locale EN
+Found page "SBS Seed Fund" [index]
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet portfolio-org
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered snippet team-member
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.8ms
+
+[0m
+[0;97;49mStarted GET "/img/map-image.png" at 2014-11-19 17:34:14 +0000[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.9ms
+
+[0m

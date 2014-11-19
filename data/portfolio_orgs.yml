@@ -1,0 +1,20 @@
+- "ACE Consensus":
+    picture: "images/portfolio/treehouse.png" # Path to a file in the public/samples folder or to a remote and external file.
+    link: "http://www.aceconsensus.com/"
+    tagline: "High quality concensus forecasts."
+
+- "Onfido":
+    picture: "images/portfolio/escape.png" # Path to a file in the public/samples folder or to a remote and external file.
+    link: "https://www.onfido.com/"
+    tagline: "Intelligent background checking."
+
+- "Tigmus":
+    picture: "images/portfolio/golden.png" # Path to a file in the public/samples folder or to a remote and external file.
+    link: "http://www.tigmus.com/"
+    tagline: "Connecting musicians and fans using pledge based tickets."
+
+- "Massolit":
+    picture: "images/portfolio/roundicons.png" # Path to a file in the public/samples folder or to a remote and external file.
+    link: "https://www.massolit.io/"
+    tagline: "Putting the world's best academics in your classroom."
+

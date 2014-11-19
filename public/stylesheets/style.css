@@ -21,3 +21,20 @@ footer {
 	color: white;
 	background-color: black;
 }
+
+.profile-img {
+	max-width: 100%;
+}
+
+.profile-icon {
+	width: 30%;
+}
+
+.portfolio-caption a {
+	color: inherit;
+}
+
+
+#contact p {
+	color: white;
+}

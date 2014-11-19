@@ -1,0 +1,55 @@
+- "Marcus Beames":
+    picture: "images/team/Beames_M.jpg" # Path to a file in the public/samples folder or to a remote and external file.
+    role: "Committee Member"
+    background: "Finance / Entrepreneurship"
+    linkedin: "http://au.linkedin.com/pub/marcus-beames/57/1b4/929"
+
+- "Patrick Beattie":
+    picture: "images/team/Beattie_P.jpg" # Path to a file in the public/samples folder or to a remote and external file.
+    role: "Committee Member"
+    background: "MedTech / Social Enterprise"
+
+- "Daniel Drummer":
+    picture: "images/team/Drummer_D.jpg" # Path to a file in the public/samples folder or to a remote and external file.
+    role: "Committee Member"
+    background: "Management Consulting"
+
+- "Ryan Glasgo":
+    picture: "images/team/Glasgo_R.jpg" # Path to a file in the public/samples folder or to a remote and external file.
+    role: "Committee Member"
+    background: "Social Entrepreneurship"
+    twitter: "https://twitter.com/ryglasgo"
+
+- "Lyn Hill":
+    picture: "images/team/Hill_L.jpg" # Path to a file in the public/samples folder or to a remote and external file.
+    role: "Co-Chair"
+    background: "Finance"
+
+- "Scott Kincaid":
+    picture: "images/team/Kincaid_S.jpg" # Path to a file in the public/samples folder or to a remote and external file.
+    role: "Co-Chair"
+    background: "Finance"
+
+- "Jessica Lau":
+    picture: "images/team/Lau_J.jpg" # Path to a file in the public/samples folder or to a remote and external file.
+    role: "Committee Member"
+    background: "Management Consulting"
+    linkedin: "http://www.linkedin.com/in/jessicatlau"
+
+- "Aniketh Morappakkam":
+    picture: "images/team/Morappakkam_J.jpg" # Path to a file in the public/samples folder or to a remote and external file.
+    role: "Committee Member"
+    background: ""
+
+- "Owen Scott":
+    picture: "images/team/Scott_O.jpg" # Path to a file in the public/samples folder or to a remote and external file.
+    role: "Committee Member"
+    background: "Web Development"
+    linkedin: "http://uk.linkedin.com/pub/owen-scott/15/17b/42a"
+    github: "http://www.github.com/owenscott"
+    twitter: "https://twitter.com/owenscott22"
+
+- "Joel Usher":
+    picture: "images/team/Usher_J.jpg" # Path to a file in the public/samples folder or to a remote and external file.
+    role: "Committee Member"
+    background: ""
