@@ -1,0 +1,23 @@
+.intro {
+	background-color: rgba(0, 0, 0, 0.65)
+}
+
+div.navbar-header a.navbar-brand {
+	font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: white;
+}
+
+.btn-xl {
+	background-color:	rgb(103, 52, 2);
+	border-color: rgb(103, 52, 2);
+}
+
+.btn-xl:hover {
+	background-color: rgb(140, 52, 2);
+}
+
+
+footer {
+	color: white;
+	background-color: black;
+}
