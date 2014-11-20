@@ -38,3 +38,7 @@ footer {
 #contact p {
 	color: white;
 }
+
+.dark-section {
+	background-color: #222;
+}

@@ -13,6 +13,7 @@
     picture: "images/team/Drummer_D.jpg" # Path to a file in the public/samples folder or to a remote and external file.
     role: "Committee Member"
     background: "Management Consulting"
+    twitter: ""
 
 - "Ryan Glasgo":
     picture: "images/team/Glasgo_R.jpg" # Path to a file in the public/samples folder or to a remote and external file.

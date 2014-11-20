@@ -76,7 +76,7 @@ meta_description: The oxford seed fund is awesome!
                         <a class="page-scroll" href="#portfolio">Portfolio</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Learn More</a>
+                        <a class="page-scroll" href="#learn-more">Learn More</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#apply">Apply!</a>
@@ -159,7 +159,7 @@ meta_description: The oxford seed fund is awesome!
 
 
 
-    <section id="contact">
+    <section id="learn-more">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -170,12 +170,9 @@ meta_description: The oxford seed fund is awesome!
             <div class="row">
                 <div class="col-lg-12">
                    <p>We're in the process of revamping our website to make it easier to learn about the seedfund. In the meantime though, our content is spread across two sites. Please checkout the <a href="#">old site</a> for plenty more information. And use the link below to join the mailing list!</p>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus scelerisque vel quam ornare bibendum. Nulla porta faucibus sagittis. Curabitur mattis pretium luctus. Nunc metus ex, pharetra quis mauris vel, commodo dignissim mi. Nulla nisl justo, venenatis quis urna sed, porta pulvinar eros. Nam cursus libero hendrerit finibus placerat. Donec at nunc mattis, consectetur dolor vestibulum, vulputate risus. Proin nec tellus tellus. Donec quis est quis nisl egestas hendrerit. Maecenas neque urna, congue eget lorem ac, posuere varius augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi non ligula nec enim ullamcorper iaculis.</p>
+                   <p>Mauris lacinia congue sapien id venenatis. Praesent egestas, justo eget rhoncus facilisis, est urna faucibus enim, commodo suscipit tellus odio vel elit. Nam aliquet est vel lorem laoreet sollicitudin. Cras porttitor in orci nec vehicula. Sed tempus lectus vulputate mauris dignissim maximus. Proin sit amet dui quis velit ornare blandit. Aenean nec felis ultrices, ullamcorper velit vehicula, varius libero. Maecenas eu justo non nulla sagittis consectetur. Aliquam elementum tincidunt ultrices.</p>
                 </div>
-            </div>
-            <div class="row">
-              <div class="col-lg-12 intro-text">
-                <a href="#"><button class="btn-xl">Join the Mailing List</button></a>
-              </div>
             </div>
         </div>
     </section>
@@ -257,22 +254,18 @@ meta_description: The oxford seed fund is awesome!
     </div>
 
     <!-- jQuery -->
-    <script src="javascripts/jquery.js"></script>
+    {{ 'jquery.js' | javascript_tag }}
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="javascripts/bootstrap.min.js"></script>
+    {{ 'bootstrap.min.js' | javascript_tag }}
 
     <!-- Plugin JavaScript -->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-    <script src="javascripts/classie.js"></script>
-    <script src="javascripts/cbpAnimatedHeader.js"></script>
-
-    <!-- Contact Form JavaScript -->
-    <script src="javascripts/jqBootstrapValidation.js"></script>
-    <script src="javascripts/contact_me.js"></script>
+    {{ 'classie.js' | javascript_tag }}
+    {{ 'cbpAnimatedHeader.js' | javascript_tag }}
 
     <!-- Custom Theme JavaScript -->
-    <script src="javascripts/agency.js"></script>
+    {{ 'agency.js' | javascript_tag }}
 
 </body>
 
