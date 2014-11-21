@@ -1,11 +1,14 @@
 ---
 title: SBS Seed Fund
-slug: index
+listed: false
 published: true
+cache_strategy: none
+response_type: text/html
+position: 0
 meta_keywords: oxford startups innovation launchpad mba startup
 meta_description: The oxford seed fund is awesome!
----
 
+---
 <!DOCTYPE html>
 <html lang="en">
 
@@ -48,204 +51,294 @@ meta_description: The oxford seed fund is awesome!
 
     {% block 'main' %}
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top">{{page.title | escape}}</a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#learn-more">Learn More</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#apply">Apply!</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#team">Team</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-    </nav>
-
-    <!-- Header -->
-
-    {% block 'header' %}
-      {% capture intro %}
-        {% editable_text 'Header Text', format: 'raw', rows: 3, hint: 'Text which is overlaid onto the main header image' %}
-          Early-stage venture funding for Oxford entrepreneurs.
-        {% endeditable_text %}
-      {% endcapture %}
-      <header>
+      <!-- Navigation -->
+      <nav class="navbar navbar-default navbar-fixed-top">
           <div class="container">
-              <div class="intro-text">
-                  <div class="intro intro-lead-in">{{ intro | escape }}</div>
-                  <!-- <div class="intro intro-heading">You've come to the right place!</div> -->
-                  <a href="#about" class="page-scroll btn btn-xl">Tell Me More</a>
-              </div>
-          </div>
-      </header>
-    {% endblock %}
-
-    
-    <!--header photo CC from https://www.flickr.com/photos/kwarz/8154892547/in/photolist-dqBXrD-7vUb5p-7JoDj-7aaDP9-dV2F84-7meKMm-4v572g-7bGfVq-7RTKLd-e7cSpQ-FPvFb-8KvuR-7ENXBZ-rKp7X-eMk1Wr-dGFJ4M-atLYS-o1eK7M-92pxJR-mAG5C-9gWgTb-9FRnEx-4Xb2r1-hrpisK-e6qCmq-fJAGZ4-4DWxXR-asGg7J-8mqTuM-7aeJwV-9yJX7H-9FVi9m-9pNWFZ-bc7cHi-9daY9o-nK7kRW-8QGCfB-4Xo8u9-4Jx98j-9FUu6f-96xajV-7aeocB-kUsM8J-5wdMEo-555QaA-e4W1g5-crDKWh-rqLgE-abfYgd-aX6FZk-->
-
-    <!-- About Section -->
-    <section id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">About</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="row">
+                <div class="navbar-header page-scroll">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand page-scroll" href="#page-top">{{page.title | escape}}</a>
                 </div>
-            </div>
-            <div class="row">
-              <div class="col-sm-12">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus scelerisque vel quam ornare bibendum. Nulla porta faucibus sagittis. Curabitur mattis pretium luctus. Nunc metus ex, pharetra quis mauris vel, commodo dignissim mi. Nulla nisl justo, venenatis quis urna sed, porta pulvinar eros. Nam cursus libero hendrerit finibus placerat. Donec at nunc mattis, consectetur dolor vestibulum, vulputate risus. Proin nec tellus tellus. Donec quis est quis nisl egestas hendrerit. Maecenas neque urna, congue eget lorem ac, posuere varius augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi non ligula nec enim ullamcorper iaculis.</p>
 
-                <p>Mauris lacinia congue sapien id venenatis. Praesent egestas, justo eget rhoncus facilisis, est urna faucibus enim, commodo suscipit tellus odio vel elit. Nam aliquet est vel lorem laoreet sollicitudin. Cras porttitor in orci nec vehicula. Sed tempus lectus vulputate mauris dignissim maximus. Proin sit amet dui quis velit ornare blandit. Aenean nec felis ultrices, ullamcorper velit vehicula, varius libero. Maecenas eu justo non nulla sagittis consectetur. Aliquam elementum tincidunt ultrices.</p>
-
-                <p>Nunc ac mi vel justo hendrerit vehicula. Nam porta, augue sit amet commodo consequat, velit neque viverra leo, vel vulputate elit augue in libero. Donec viverra ex quis efficitur vehicula. Ut quis justo volutpat, scelerisque mauris nec, auctor enim. Ut vehicula lacinia ultrices. Sed interdum eros vitae ipsum vulputate, ut faucibus urna posuere. Nulla et nulla vitae enim aliquet semper. Nam in nunc justo. Morbi sagittis justo ac mattis accumsan. Donec libero neque, semper eget aliquam in, aliquet et leo. Nam posuere, purus vel semper egestas, felis lorem pretium quam, id feugiat ipsum lorem ut metus. Aliquam tempus aliquet velit eget sollicitudin. Nunc turpis lorem, lacinia in orci eleifend, euismod tristique nulla. Aliquam elementum est efficitur urna congue, in feugiat risus auctor. Morbi vitae pharetra nulla.</p>
-              </div>
-            </div>
-
- 
-        </div>
-    </section>
-
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio" class="bg-light-gray">
-        <div class="container">
-            <!--header-->
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Portfolio</h2>
-                    <h3 class="section-subheading text-muted">Here are some of the awesome companies which the seed fund has supported in the past.</h3>
-                </div>
-            </div>
-            <!--actual content-->
-            <div class="row">
-              {% for portfolio_org in contents.portfolio_orgs %}
-                 {% include 'portfolio-org' portfolio_org=team_member %}
-                 {% cycle '', '', '', '<div class="clearfix hidden-sm hidden-xs">&nbsp;</div>'  %}
-              {% endfor %}
-            </div>
-
-        </div>
-    </section>
-
-
-
-    <section id="learn-more">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Learn More!</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                   <p>We're in the process of revamping our website to make it easier to learn about the seedfund. In the meantime though, our content is spread across two sites. Please checkout the <a href="#">old site</a> for plenty more information. And use the link below to join the mailing list!</p>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus scelerisque vel quam ornare bibendum. Nulla porta faucibus sagittis. Curabitur mattis pretium luctus. Nunc metus ex, pharetra quis mauris vel, commodo dignissim mi. Nulla nisl justo, venenatis quis urna sed, porta pulvinar eros. Nam cursus libero hendrerit finibus placerat. Donec at nunc mattis, consectetur dolor vestibulum, vulputate risus. Proin nec tellus tellus. Donec quis est quis nisl egestas hendrerit. Maecenas neque urna, congue eget lorem ac, posuere varius augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi non ligula nec enim ullamcorper iaculis.</p>
-                   <p>Mauris lacinia congue sapien id venenatis. Praesent egestas, justo eget rhoncus facilisis, est urna faucibus enim, commodo suscipit tellus odio vel elit. Nam aliquet est vel lorem laoreet sollicitudin. Cras porttitor in orci nec vehicula. Sed tempus lectus vulputate mauris dignissim maximus. Proin sit amet dui quis velit ornare blandit. Aenean nec felis ultrices, ullamcorper velit vehicula, varius libero. Maecenas eu justo non nulla sagittis consectetur. Aliquam elementum tincidunt ultrices.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="apply">
-      <div class="container">
-
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Apply</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-            </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-12">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tempor lectus a nisi vestibulum, in ultrices augue commodo. Phasellus non ullamcorper sapien, vitae malesuada quam. Suspendisse potenti. Morbi id accumsan augue. Donec in quam ac libero placerat gravida a eget eros. Curabitur non libero at justo ultrices hendrerit. Praesent non nibh venenatis, cursus nibh sit amet, hendrerit massa. Quisque dictum nulla at augue dignissim eleifend vitae ac eros. Fusce eu nibh ac urna varius varius at eu turpis. Sed ac tortor ut magna accumsan viverra.</p>
-            <a href="#">Hark, a link</a>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-    <!-- Team Section -->
-    <section id="team" class="bg-light-gray">
-        <div class="container">
-            <!--heading-->
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Seed Fund Committee</h2>
-                    <h3 class="section-subheading text-muted">Meet the 2014/2015 SBS Seed Fund committee. The committee changes every year and is picked with help from the past year's chair(s) and an external group of experts.</h3>
-                </div>
-            </div>
-            
-            <!--actual team members-->
-            <div class="row">
-              {% for team_member in contents.team_members %}
-                 {% include 'team-member' team_member=team_member %}
-                 {% cycle '', '', '', '<div class="clearfix hidden-sm hidden-xs">&nbsp;</div>'  %}
-              {% endfor %}
-            </div>
-
-        </div>
-    </section>
-
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; SBS Seed Fund 2014</span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="hidden">
+                            <a href="#page-top"></a>
                         </li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a>
+                        <li>
+                            <a class="page-scroll" href="#about">About</a>
                         </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                        <li>
+                            <a class="page-scroll" href="#portfolio">Portfolio</a>
                         </li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
+                        <li>
+                            <a class="page-scroll" href="#learn-more">Learn More</a>
                         </li>
-                        <li><a href="#">Terms of Use</a>
+                        <li>
+                            <a class="page-scroll" href="#apply">Apply!</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#team">Team</a>
                         </li>
                     </ul>
                 </div>
             </div>
-        </div>
-    </footer>
+              <!-- /.navbar-collapse -->
+          </div>
+          <!-- /.container-fluid -->
+      </nav>
+
+      <!-- Header -->
+
+      {% block 'header_image' %}
+
+        {% capture intro %}
+          {% editable_text 'Header Text', format: 'raw', rows: 3, hint: 'Text which is overlaid onto the main header image' %}
+            Early-stage funding for Oxford entrepreneurs.
+          {% endeditable_text %}
+        {% endcapture %}
+
+        {% capture tellMeMore %}
+          {% editable_text 'Find Out More button', format: 'raw', rows:1, hint: 'Button for users to go directly to the about section' %}
+            Tell Me More
+          {% endeditable_text %}
+        {% endcapture %}
+
+        <header>
+            <div class="container">
+                <div class="intro-text">
+                    <div class="intro intro-lead-in">{{ intro | escape }}</div>
+                    <!-- <div class="intro intro-heading">You've come to the right place!</div> -->
+                    <a href="#about" class="page-scroll btn btn-xl">{{ tellMeMore | escape }}</a>
+                </div>
+            </div>
+        </header>
+
+      {% endblock %}
+
+      
+      <!--header photo CC from https://www.flickr.com/photos/kwarz/8154892547/in/photolist-dqBXrD-7vUb5p-7JoDj-7aaDP9-dV2F84-7meKMm-4v572g-7bGfVq-7RTKLd-e7cSpQ-FPvFb-8KvuR-7ENXBZ-rKp7X-eMk1Wr-dGFJ4M-atLYS-o1eK7M-92pxJR-mAG5C-9gWgTb-9FRnEx-4Xb2r1-hrpisK-e6qCmq-fJAGZ4-4DWxXR-asGg7J-8mqTuM-7aeJwV-9yJX7H-9FVi9m-9pNWFZ-bc7cHi-9daY9o-nK7kRW-8QGCfB-4Xo8u9-4Jx98j-9FUu6f-96xajV-7aeocB-kUsM8J-5wdMEo-555QaA-e4W1g5-crDKWh-rqLgE-abfYgd-aX6FZk-->
+
+      <!-- About Section -->
+      {% block 'about' %}
+
+        {% capture section_heading %}
+          {% editable_text 'Header Text', format: 'raw', rows: 1, hint: 'Title for about section' %}
+            About
+          {% endeditable_text %}
+        {% endcapture %}
+        {% capture section_sub_heading %}
+          {% editable_text 'Sub Header Text', format: 'raw', rows: 1, hint: 'Sub-title for about section' %}
+            Lorem ipsum dolor sit amet consectetur.
+          {% endeditable_text %}
+        {% endcapture %}
+        {% capture section_contents %}
+          {% editable_text 'Section Body', rows: 15, hint: 'Contents of the actual section' %}
+            <p><strong>Applications for 2014/2015 startup investments will open in December, 2014.</strong> For more details about how to apply <a href="#apply">click here</a>.</p>
+            <p>The Saïd Business School Seed Fund is a student-run fund that invests £15-25k in early-stage ventures founded by Oxford students and alumni. It provides funding and support to entrepreneurs, and it is part of the Entrepreneurship Centre at Saïd Business School, University of Oxford. Founded in the autumn of 2012, the Seed Fund closed its first investments in the summer of 2013.</p>
+            <p>For first-time entrepreneurs not quite ready for investment, the Launchpad at Saïd Business School also operates a Lean LaunchPad business model development programme to help entrepreneurs build business models and prepare their ventures for future funding.</p>
+            <h4>What kind of businesses does the Seed Fund invest in?</h4>
+            <p>We are looking for high-growth companies who need venture-style investment to grow. We do not invest in lifestyle businesses or nonprofits. Our minimum investment criteria for companies require that they:</p>
+            <ul>
+              <li>Have an Oxford student or alumni on a strong founding team</li>
+              <li>Are in a pilot or proof-of-concept stage, with no significant previous investment</li>
+              <li>Have the potential to receive follow-on investment or generate substantial revenues in the next 18 months</li>
+              <li>Have small initial capital requirements such that our quantum of funding can make a meaningful difference in the company’s trajectory</li>
+              <li>Are registered either in the UK or the US, even if they operate elsewhere</li>
+            </ul>
+          {% endeditable_text %}
+        {% endcapture %}
+
+        <section id="about" class="light-section text-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="section-heading">{{ section_heading | escape }}</h2>
+                        <!-- <h3 class="section-subheading text-muted">{{ section_sub_heading | escape }}</h3> -->
+                    </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-12">
+                    {{ section_contents }}
+                  </div>
+                </div>
+
+     
+            </div>
+        </section>
+
+      {% endblock %}
+
+
+      {% block 'portfolio' %}
+
+        {% capture section_heading %}
+          {% editable_text 'Header Text', format: 'raw', rows: 1, hint: 'Title for section' %}
+            Portfolio
+          {% endeditable_text %}
+        {% endcapture %}
+        {% capture section_sub_heading %}
+          {% editable_text 'Sub Header Text', format: 'raw', rows: 1, hint: 'Sub-title for the section' %}
+            Check out some of the awesome companies which the Seed Fund has invested in.
+          {% endeditable_text %}
+        {% endcapture %}
+
+        <!-- Portfolio Grid Section -->
+        <section id="portfolio" class="bg-light-gray">
+            <div class="container">
+                <!--header-->
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="section-heading">{{ section_heading | escape }}</h2>
+                        <h3 class="section-subheading text-muted">{{ section_sub_heading | escape }}</h3>
+                    </div>
+                </div>
+                <!--actual content-->
+                <div class="row">
+                  {% for portfolio_org in contents.portfolio_orgs %}
+                     {% include 'portfolio-org' portfolio_org=team_member %}
+                     {% cycle '', '', '', '<div class="clearfix hidden-sm hidden-xs">&nbsp;</div>'  %}
+                  {% endfor %}
+                </div>
+
+            </div>
+        </section>
+      {% endblock %}
+
+      {% block 'learn-more' %}
+
+        {% capture section_heading %}
+          {% editable_text 'Header Text', format: 'raw', rows: 1, hint: 'Title for the section' %}
+            Learn More
+          {% endeditable_text %}
+        {% endcapture %}
+
+        {% capture section_contents %}
+          {% editable_text 'Section Body', rows: 15, hint: 'Contents of the actual section' %}
+            <p>The Seed Fund is in a period of transition where we are migrating from our old web property to this one. To learn more about the Seed Fund you can checkout our <a href="http://www.sbs.ox.ac.uk/ideas-impact/entrepreneurship/venture-creation/seed-fund/expression-interest-form">old webpage</a>, with special attention to the <a href="http://www.sbs.ox.ac.uk/ideas-impact/entrepreneurship/venture-creation/seed-fund/faqs">Frequently Asked Questions</a> section.</p>
+            <p>We always enjoy hearing from entrepreneurs, whether you are looking for funding or want to develop your idea. Send an email to <a href="mailto:hello@sbsseedfund.com">hello@sbsseedfund.com</a> or come visit us at the Oxford LaunchPad in Saïd Business School.</p>
+            <p>If you are an investor, mentor, or incoming student interested in participating in the Seed Fund during the 2014-2015 academic year, please email <a href="mailto:hello@sbsseedfund.com">hello@sbsseedfund.com</a>.</p>
+            <p>For other enquiries, write to <a href="mailto:entrepreneurship@sbs.ox.ac.uk">entrepreneurship@sbs.ox.ac.uk</a> or call +44 (0)1865 288845.</p>
+          {% endeditable_text %}
+        {% endcapture %}
+
+
+
+        <section id="learn-more" class="light-section text-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="section-heading">{{ section_heading | escape }}</h2>
+                        <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">{{ section_contents }}</div>
+                </div>
+            </div>
+        </section>
+
+      {% endblock %}
+
+
+      {% block 'apply' %}
+
+        {% capture section_heading %}
+          {% editable_text 'Header Text', format: 'raw', rows: 1, hint: 'Title for the section' %}
+            Apply!
+          {% endeditable_text %}
+        {% endcapture %}
+        {% capture application_date %}
+          {% editable_text 'Sub Header Text', format: 'raw', rows: 1, hint: 'A short sentence saying when the applications are open' %}
+            Applications for the 2014/2015 round of the Seed Fund open early December, 2014. 
+          {% endeditable_text %}
+        {% endcapture %}
+        {% capture section_contents %}
+          {% editable_text 'Section Body', rows: 15, hint: 'Contents of the actual section' %}
+            <p>Applications will be opening in early December, 2014. The best way to stay up-to-date about applications is to join our mailing list by <a href="http://www.sbs.ox.ac.uk/ideas-impact/entrepreneurship/venture-creation/seed-fund/expression-interest-form">completing an expression of interest form</a> on our old website. As soon as applications are available you will be notified.</p>
+          {% endeditable_text %}
+        {% endcapture %}
+
+
+        <section id="apply" class="dark-section text-section">
+          <div class="container">
+
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">{{ section_heading | escape }}</h2>
+                    <h3 class="section-subheading text-muted">{{ application_date | escape }}</h3>
+                </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-12">{{ section_contents }}</div>
+            </div>
+          </div>
+        </section>
+
+      {% endblock %}
+
+
+      <!-- Team Section -->
+      <section id="team" class="bg-light-gray">
+          <div class="container team-container">
+              <!--heading-->
+              <div class="row">
+                  <div class="col-lg-12 text-center">
+                      <h2 class="section-heading">Seed Fund Committee</h2>
+                      <h3 class="section-subheading text-muted">Meet the 2014/2015 SBS Seed Fund committee. The committee changes every year and is picked with help from the past year's chair(s) and an external group of experts.</h3>
+                  </div>
+              </div>
+              
+              <!--actual team members-->
+              <div class="row">
+                {% for team_member in contents.team_members %}
+                  <!-- {% cycle '<div class="row">', '', '', ''  %} -->
+                   {% include 'team-member' team_member=team_member %}
+                   {% cycle '', '<div class="clearfix hidden-sm hidden-md hidden-lg"></div>'  %}
+                   {% cycle '', '', '<div class="clearfix hidden-xs hidden-md hidden-lg"></div>'  %}
+                   {% cycle '', '', '', '<div class="clearfix hidden-xs hidden-sm"></div>'  %}
+                   <!-- {% cycle '', '', '', '</div><div class="clearfix hidden-sm hidden-xs">&nbsp;</div>'  %} -->
+                {% endfor %}
+              </div>
+
+          </div>
+      </section>
+
+      <footer>
+          <div class="container">
+              <div class="row">
+                  <div class="col-md-4">
+                      <span class="copyright">Copyright &copy; SBS Seed Fund 2014</span>
+                  </div>
+                  <div class="col-md-4">
+                      <ul class="list-inline social-buttons">
+                          <li><a href="#"><i class="fa fa-twitter"></i></a>
+                          </li>
+                          <li><a href="#"><i class="fa fa-facebook"></i></a>
+                          </li>
+                          <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                          </li>
+                      </ul>
+                  </div>
+                  <div class="col-md-4">
+                      <ul class="list-inline quicklinks">
+                          <li><a href="#">Privacy Policy</a>
+                          </li>
+                          <li><a href="#">Terms of Use</a>
+                          </li>
+                      </ul>
+                  </div>
+              </div>
+          </div>
+      </footer>
 
 
 

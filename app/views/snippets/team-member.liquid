@@ -1,7 +1,7 @@
 
-<div class="col-sm-3">
+<div class="col-xs-12 col-sm-4 col-md-3">
     <div class="team-member">
-        <img src="{{ team_member.picture.url | resize: '150x150'}}" class="profile-img img-circle" alt="">
+        <img src="{{ team_member.picture.url | resize: '150x150'}}" class="profile-img img-circle hidden-xs" alt="{{ team_member.name | escape }}">
         <h4>{{ team_member.name | escape }}</h4>
         <p class="text-muted">{{ team_member.role | escape }}</p>
         <ul class="list-inline social-buttons">

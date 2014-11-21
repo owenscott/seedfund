@@ -1,56 +1,67 @@
-- "Marcus Beames":
-    picture: "images/team/Beames_M.jpg" # Path to a file in the public/samples folder or to a remote and external file.
-    role: "Committee Member"
-    background: "Finance / Entrepreneurship"
-    linkedin: "http://au.linkedin.com/pub/marcus-beames/57/1b4/929"
-
-- "Patrick Beattie":
-    picture: "images/team/Beattie_P.jpg" # Path to a file in the public/samples folder or to a remote and external file.
-    role: "Committee Member"
-    background: "MedTech / Social Enterprise"
-
-- "Daniel Drummer":
-    picture: "images/team/Drummer_D.jpg" # Path to a file in the public/samples folder or to a remote and external file.
-    role: "Committee Member"
-    background: "Management Consulting"
-    twitter: ""
-
-- "Ryan Glasgo":
-    picture: "images/team/Glasgo_R.jpg" # Path to a file in the public/samples folder or to a remote and external file.
-    role: "Committee Member"
-    background: "Social Entrepreneurship"
-    twitter: "https://twitter.com/ryglasgo"
-
-- "Lyn Hill":
-    picture: "images/team/Hill_L.jpg" # Path to a file in the public/samples folder or to a remote and external file.
-    role: "Co-Chair"
-    background: "Finance"
-
-- "Scott Kincaid":
-    picture: "images/team/Kincaid_S.jpg" # Path to a file in the public/samples folder or to a remote and external file.
-    role: "Co-Chair"
-    background: "Finance"
-
-- "Jessica Lau":
-    picture: "images/team/Lau_J.jpg" # Path to a file in the public/samples folder or to a remote and external file.
-    role: "Committee Member"
-    background: "Management Consulting"
-    linkedin: "http://www.linkedin.com/in/jessicatlau"
-
-- "Aniketh Morappakkam":
-    picture: "images/team/Morappakkam_J.jpg" # Path to a file in the public/samples folder or to a remote and external file.
-    role: "Committee Member"
-    background: ""
-
-- "Owen Scott":
-    picture: "images/team/Scott_O.jpg" # Path to a file in the public/samples folder or to a remote and external file.
-    role: "Committee Member"
-    background: "Web Development"
-    linkedin: "http://uk.linkedin.com/pub/owen-scott/15/17b/42a"
-    github: "http://www.github.com/owenscott"
-    twitter: "https://twitter.com/owenscott22"
-
-- "Joel Usher":
-    picture: "images/team/Usher_J.jpg" # Path to a file in the public/samples folder or to a remote and external file.
-    role: "Committee Member"
-    background: ""
+---
+- Lyn Hill:
+    _slug: lyn-hill
+    picture: /samples/team_members/lyn-hill/Hill_L.jpg
+    role: Co-Chair
+    background: Finance
+- Scott Kincaid:
+    _slug: scott-kincaid
+    picture: /samples/team_members/scott-kincaid/Kincaid_S.jpg
+    role: Co-Chair
+    background: Finance
+- Jessica Lau:
+    _slug: jessica-lau
+    picture: /samples/team_members/jessica-lau/Lau_J.jpg
+    role: Committee Member
+    background: Management Consulting
+    linkedin: http://www.linkedin.com/in/jessicatlau
+- Aniketh Morappakkam:
+    _slug: aniketh-morappakkam
+    picture: /samples/team_members/aniketh-morappakkam/Morappakkam_J.jpg
+    role: Committee Member
+    background: ''
+- Marcus Beames:
+    _slug: marcus-beames
+    picture: /samples/team_members/marcus-beames/Beames_M.jpg
+    role: Committee Member
+    background: Finance / Entrepreneurship
+    twitter: ''
+    linkedin: http://au.linkedin.com/pub/marcus-beames/57/1b4/929
+    github: ''
+- Patrick Beattie:
+    _slug: patrick-beattie
+    picture: /samples/team_members/patrick-beattie/Beattie_P.jpg
+    role: Committee Member
+    background: MedTech / Social Enterprise
+    twitter: ''
+    linkedin: ''
+    github: ''
+- Daniel Drummer:
+    _slug: daniel-drummer
+    picture: /samples/team_members/daniel-drummer/Drummer_D.jpg
+    role: Committee Member
+    background: Management Consulting
+    twitter: ''
+    linkedin: ''
+    github: ''
+- Ryan Glasgo:
+    _slug: ryan-glasgo
+    picture: /samples/team_members/ryan-glasgo/Glasgo_R.jpg
+    role: Committee Member
+    background: Social Entrepreneurship
+    twitter: https://twitter.com/ryglasgo
+    linkedin: ''
+    github: ''
+- Owen Scott:
+    _slug: owen-scott
+    picture: /samples/team_members/owen-scott/Scott_O.jpg
+    role: Committee Member
+    background: Web Development
+    twitter: https://twitter.com/owenscott22
+    linkedin: http://uk.linkedin.com/pub/owen-scott/15/17b/42a
+    github: http://www.github.com/owenscott
+- Joel Usher:
+    _slug: joel-usher
+    picture: /samples/team_members/joel-usher/Usher_J.jpg
+    role: Committee Member
+    background: ''

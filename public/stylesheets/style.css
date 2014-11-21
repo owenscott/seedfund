@@ -1,44 +1,87 @@
-.intro {
-	background-color: rgba(0, 0, 0, 0.65)
+.intro, .navbar-right {
+	background-color: rgba(34, 34, 34, 0.75)
 }
-
+.navbar-right {
+	border-radius: .15em;
+}
 div.navbar-header a.navbar-brand {
 	font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color: white;
+	background-color: rgba(34, 34, 34, 0.75);
+	border-radius: .2em;
 }
-
 .btn-xl {
-	background-color:	rgb(103, 52, 2);
-	border-color: rgb(103, 52, 2);
+	background-color: #673402;
+	border-color: #673402
 }
-
 .btn-xl:hover {
-	background-color: rgb(140, 52, 2);
+	background-color: #8c3402
 }
-
-
 footer {
 	color: white;
-	background-color: black;
+	background-color: black
 }
-
 .profile-img {
-	max-width: 100%;
+	max-width: 100%
 }
-
 .profile-icon {
-	width: 30%;
+	width: 30%
 }
-
 .portfolio-caption a {
-	color: inherit;
+	color: inherit
 }
-
-
 #contact p {
-	color: white;
+	color: white
 }
-
 .dark-section {
 	background-color: #222;
+	color: white;
+}
+.team-container {
+	max-width: 900px;
+}
+section h3.section-subheading {
+	margin-bottom: 2em;
+}
+section {
+	padding: 5em 0em;
+}
+section#apply {
+	padding: 4em 0em 9em 0em;
+}
+
+h2.section-heading {
+	padding-top: 1em;
+}
+
+@media screen and (max-width:750px) {
+	section {
+		padding-left: 3em;
+		padding-right: 3em;
+	}
+}
+header .intro-text {
+	padding-top: 150px;
+	padding-bottom: 50px;
+	max-width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+header .intro-lead-in {
+	padding-top: .3em;
+	padding-bottom: .3em;
+	border-radius: .25em;
+}
+
+.light-section a {
+	color: #C37713;
+}
+
+.text-section .container {
+	max-width: 900px;
+	text-align: justify;
+}
+
+.text-section .container p {
+	margin: 1.5em 0em;
 }
